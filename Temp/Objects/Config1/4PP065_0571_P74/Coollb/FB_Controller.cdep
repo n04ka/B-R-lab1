@@ -1,0 +1,5 @@
+$(AS_CPU_PATH)/coollb/fb_controller.c.o:
+$(AS_PROJECT_PATH)/logical/libraries/coollb/fb_controller.c
+$(AS_GNU_INST_PATH)/4.9/i386-elf/include/bur/plctypes.h
+$(AS_GNU_INST_PATH)/4.9/i386-elf/include/bur/plc.h
+$(AS_TEMP_PATH)/includes/coollb.h
